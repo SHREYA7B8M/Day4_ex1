@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\bin\Debug\Day4_ex1.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\bin\Debug\Day4_ex1.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\bin\Debug\Day4_ex1.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\obj\Debug\Day4_ex1.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\obj\Debug\Day4_ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\obj\Debug\Day4_ex1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\obj\Debug\Day4_ex1.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_4\Day4_ex1\Day4_ex1\obj\Debug\Day4_ex1.pdb
